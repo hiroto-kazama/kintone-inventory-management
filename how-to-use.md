@@ -11,20 +11,20 @@
 
 ### Add the Automation Script
 1. Go to your Order app
-   > [Screenshot: Order app screen]
+   ![Go to Order App](images/1.png)
 
 2. Click the gear icon ⚙️ → **App Settings**
-   > [Screenshot: App Settings menu]
+   ![Open App Settings](images/2.png)
+   ![Open App Settings](images/3.png)
 
 3. Go to **JavaScript and CSS Customization**
-   > [Screenshot: JavaScript and CSS Customization section]
+   ![Open App Settings](images/4.png)
 
 4. Click **Upload New File** button
-   > [Screenshot: Upload button location]
+   ![Open App Settings](images/5.png)
 
 5. Select the `automation.js` file you downloaded
-   > [Screenshot: File selection dialog]
+   ![Open App Settings](images/6.png)
 
-
-8. Click **Save** and then **Update App**
-   > [Screenshot: Save and Update App buttons]
+6. Click **Save** and then **Update App**
+   ![Open App Settings](images/7.png)
