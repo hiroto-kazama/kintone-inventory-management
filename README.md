@@ -29,15 +29,7 @@ This system automatically manages your inventory in Kintone by:
 - **Support Options**:
   - For technical issues: Contact your Kintone administrator
   - For usage questions: Refer to the [Installation and Usage Guide](how-to-use.md)
-  - For bug reports: Submit an issue on this project's page
   - For general Kintone questions: Visit [Kintone Developer Network](https://developer.kintone.io)
-
-## Features
-- Automatic inventory updates when orders are approved
-- Smart validation system that prevents common inventory mistakes
-- Real-time stock level tracking
-- Clear error messages when there are problems
-- Seamless integration between orders and inventory
 
 ## What This System Prevents
 The system will stop an order from being approved and show a clear message when:
@@ -45,4 +37,3 @@ The system will stop an order from being approved and show a clear message when:
 2. The quantity entered is zero or negative
 3. Trying to sell more items than are currently in stock
 4. The selected item doesn't exist in inventory
-5. There are technical issues updating the inventory
